@@ -26,7 +26,7 @@
     "abstract-leveldown": "~0.12.0",
     "idb-wrapper": "^1.5.0",
     "isbuffer": "~0.0.0",
-    "ltgt": "^1.0.1",
+    "ltgt": "nolanlawson/ltgt#patch-1",
     "typedarray-to-buffer": "~1.0.0",
     "xtend": "~2.1.2"
   },
